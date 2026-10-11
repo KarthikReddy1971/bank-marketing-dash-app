@@ -245,6 +245,7 @@ def create_chart_card(title, component_id):
 # --------------------------------------------------
 
 app = Dash(__name__)
+server = app.server
 app.title = "Bank Marketing Analytics Dashboard"
 
 
