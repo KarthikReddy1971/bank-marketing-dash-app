@@ -430,13 +430,28 @@ app.layout = html.Div(
                 "gap": "18px"
             }
         ),
-
-        # Dashboard footer.
-        html.P(
-            "Built with Python, Pandas, NumPy, Dash and Plotly",
+# Dashboard footer.
+        html.Div(
+            [
+                html.P(
+                    "Built with Python, Pandas, NumPy, Dash and Plotly",
+                    style={
+                        "textAlign": "center",
+                        "color": MUTED_COLOR,
+                        "marginBottom": "6px"
+                    }
+                ),
+                html.P(
+                    "© 2026 Karthik Reddy. All Rights Reserved.",
+                    style={
+                        "textAlign": "center",
+                        "color": MUTED_COLOR,
+                        "fontSize": "14px",
+                        "margin": "0"
+                    }
+                )
+            ],
             style={
-                "textAlign": "center",
-                "color": MUTED_COLOR,
                 "marginTop": "25px"
             }
         )
@@ -449,6 +464,8 @@ app.layout = html.Div(
         "color": TEXT_COLOR
     }
 )
+        
+
 
 
 # --------------------------------------------------
