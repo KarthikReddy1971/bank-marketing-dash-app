@@ -1,0 +1,6 @@
+Python
+Plotly
+Pandas
+Numpy
+Html
+Dash
