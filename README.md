@@ -45,7 +45,7 @@ python app.py
 ---
 
 ## 📸 Screenshots
-![Dashboard Screenshot](<img width="944" height="413" alt="image" src="https://github.com/user-attachments/assets/43ca8d25-e033-4d50-9b0a-a54da9a30461" />
+(<img width="944" height="413" alt="image" src="https://github.com/user-attachments/assets/43ca8d25-e033-4d50-9b0a-a54da9a30461" />
 )
 ---
 
