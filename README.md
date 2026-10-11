@@ -19,9 +19,8 @@ An interactive web application built with **Python**, **Dash**, and **Plotly** t
    ```bash
    pip install dash pandas numpy plotly
 
-```
 
----
+
 
 ## ▶️ How to Run
 
@@ -30,7 +29,8 @@ An interactive web application built with **Python**, **Dash**, and **Plotly** t
 ```bash
 python app.py
 
-```
+##
+
 
 
 3. Open the local URL provided in your terminal (usually **`http://127.0.0.1:8050/`**) in your web browser.
@@ -44,10 +44,13 @@ python app.py
 * **Interactive Visualizations:** Age distribution histograms, job breakdown charts, balance vs. age scatter plots, and subscription share pie charts.
 
 ---
-
+## Screenshots
+*(<img width="952" height="416" alt="image" src="https://github.com/user-attachments/assets/acf6c27c-3671-4457-bc1a-a910da19ab67" />
+)*
 ## 🌐 Live Demo
 
 
+* Experience the live web application here: [Bank Marketing Analytics Dashboard](https://bank-marketing-dash-app.onrender.com/)
 
 ---
 
